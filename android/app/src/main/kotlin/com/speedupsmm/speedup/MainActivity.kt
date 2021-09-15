@@ -1,4 +1,4 @@
-package com.speedup.speedupp
+package com.speedupsmm.speedup
 
 import io.flutter.embedding.android.FlutterActivity
 
